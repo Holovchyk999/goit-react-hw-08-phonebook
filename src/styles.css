@@ -1,0 +1,20 @@
+.NavLink {
+  display: inline-block;
+  margin: 20px;
+  font-weight: 700;
+  color: rgb(189, 189, 218);
+  font-size: 20px;
+  text-decoration: none;
+}
+.NavLink:hover {
+  color: rgb(159, 224, 215);
+}
+.NavLinkActive {
+  color: rgb(159, 214, 224);
+}
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+}

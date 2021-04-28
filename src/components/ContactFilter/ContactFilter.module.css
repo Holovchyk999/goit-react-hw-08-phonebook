@@ -1,0 +1,12 @@
+.input {
+  padding: 5px;
+  color: rgb(40, 36, 90);
+  outline: rgb(40, 36, 90);
+  border: 1px solid rgb(40, 36, 90);
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+.input:focus,
+.input:hover {
+  border: 2px solid rgb(40, 36, 90);
+}
